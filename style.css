@@ -15,7 +15,7 @@ body {
 .container2 {
     width: 495px;
     overflow: auto;
-    height: 200px;
+    height: 230px;
     background: #ebebeb;
 
 }
@@ -34,7 +34,7 @@ Aside {
     background: #ebebeb;
     float: right;
     width: 430px;
-    height: 240px
+    height: 270px
 }
 footer {
     background: #ebebeb;
@@ -48,6 +48,21 @@ Article {
     width: 90%;
     display: inline-block;
     margin: auto;
+    padding: 10px;
+    height: 180px;
+}
+.sectionheader {
+    width: 370px;
+    display: inline-block;
+    margin: auto;
+    margin-bottom: 15px;
+    color: #777;
+}
+.sectionp {
+    width: 422px;
+    display: inline-block;
+    margin: auto;
+    height: 60px;
 }
 h1, p {
     color: #777;
